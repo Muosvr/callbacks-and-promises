@@ -1,5 +1,5 @@
 function callMeWhenYoureDone() {
-  console.log("Yayy I got your call");
+  console.log("Yayy I've got your call");
 }
 
 const timeInMiliseconds = 1000;
